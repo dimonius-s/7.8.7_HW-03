@@ -6,4 +6,5 @@ docker run -it c620f004d77b https://iana.org
 ```
 Где `c620f004d77b` это image_id docker контейнера. <br>
 Увидеть необходимый образ можно командой ``` docker image ls ```
+![Screenshot](https://github.com/dimonius-s/7.8.7_HW-03/blob/master/docker_image_ls.png)
 
