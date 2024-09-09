@@ -4,6 +4,6 @@
 ``` shell
 docker run -it c620f004d77b https://iana.org
 ```
-Где `c620f004d77b` это image_id docker контейнера
+Где `c620f004d77b` это image_id docker контейнера. <br>
 Увидеть необходимый образ можно командой ``` docker ps ```
 
